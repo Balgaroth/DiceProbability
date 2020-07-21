@@ -1,0 +1,13 @@
+C:\Users\shait\source\repos\DiceProbability\DiceProbability\bin\Debug\netcoreapp3.1\DiceProbability.exe
+C:\Users\shait\source\repos\DiceProbability\DiceProbability\bin\Debug\netcoreapp3.1\DiceProbability.deps.json
+C:\Users\shait\source\repos\DiceProbability\DiceProbability\bin\Debug\netcoreapp3.1\DiceProbability.runtimeconfig.json
+C:\Users\shait\source\repos\DiceProbability\DiceProbability\bin\Debug\netcoreapp3.1\DiceProbability.runtimeconfig.dev.json
+C:\Users\shait\source\repos\DiceProbability\DiceProbability\bin\Debug\netcoreapp3.1\DiceProbability.dll
+C:\Users\shait\source\repos\DiceProbability\DiceProbability\bin\Debug\netcoreapp3.1\DiceProbability.pdb
+C:\Users\shait\source\repos\DiceProbability\DiceProbability\obj\Debug\netcoreapp3.1\DiceProbability.csprojAssemblyReference.cache
+C:\Users\shait\source\repos\DiceProbability\DiceProbability\obj\Debug\netcoreapp3.1\DiceProbability.AssemblyInfoInputs.cache
+C:\Users\shait\source\repos\DiceProbability\DiceProbability\obj\Debug\netcoreapp3.1\DiceProbability.AssemblyInfo.cs
+C:\Users\shait\source\repos\DiceProbability\DiceProbability\obj\Debug\netcoreapp3.1\DiceProbability.csproj.CoreCompileInputs.cache
+C:\Users\shait\source\repos\DiceProbability\DiceProbability\obj\Debug\netcoreapp3.1\DiceProbability.dll
+C:\Users\shait\source\repos\DiceProbability\DiceProbability\obj\Debug\netcoreapp3.1\DiceProbability.pdb
+C:\Users\shait\source\repos\DiceProbability\DiceProbability\obj\Debug\netcoreapp3.1\DiceProbability.genruntimeconfig.cache

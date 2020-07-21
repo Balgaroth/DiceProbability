@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DiceProbability": {
+      "commandName": "Project",
+      "commandLineArgs": "10 1"
+    }
+  }
+}
