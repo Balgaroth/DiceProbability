@@ -12,7 +12,7 @@ namespace DiceProbability
             var handler = new ProbabilityHandler();
             var probability = handler.GetProbability(numberOfDice, numberOfSuccesses);
 
-            Console.WriteLine($"{probability*100:G3}%");
+            Console.WriteLine($"{probability*100:G4}%");
         }
     }
 }
